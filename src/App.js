@@ -1,9 +1,10 @@
 import React from 'react'
-import './App.css';
+import './styles/globalStyles.css';
 
 function App() {
   return (
     <div>
+         
          <h2>yes boss</h2>
     </div>
   );
