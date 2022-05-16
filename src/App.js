@@ -1,11 +1,13 @@
 import React from 'react'
+import Allpage from './Allpages/Allpage';
 import './styles/globalStyles.css';
 
 function App() {
   return (
     <div>
          
-         <h2>yes boss</h2>
+         
+         <Allpage/>
     </div>
   );
 }
